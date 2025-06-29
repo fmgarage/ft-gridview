@@ -17,5 +17,5 @@ The demo uses a single list view that has no data part, only a leading sub summa
 
 All our **FileMaker**-based projects and products are prefixed with an **F**, and the **T** is for **tools, technology, tipps&tricks, techniques** or open **templates** for the community. These files are basically examples and demos where you can copy stuff from and include it your own apps and solutions.
 
-Browse all our FT repos: github.com/fmgarage?q=ft-](https://github.com/fmgarage?q=ft-)
+Browse all our FT repos: https://github.com/fmgarage?q=ft-
 
