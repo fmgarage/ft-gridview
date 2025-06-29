@@ -1,3 +1,5 @@
 .*
 !.gitignore
 *.fmp12
+*.zip
+/releases
