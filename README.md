@@ -13,6 +13,14 @@ The demo uses a single list view that has no data part, only a leading sub summa
 
 
 
+#### Getting Started
+
+Download the latest release and open it in FileMaker Pro. Klick "Add Records" and set the amount of records to reasonable number. Downloading the images will take a while but you can cancel by holding down the esc key. 
+
+To implement the grid view into your own file you will have to add the *_cols*, *group_by* and *id_next\** fields to your table along with their relationsships. Then you add a list view layout with a leading subsummary part, sorted by the *group_by* field. The resize trigger for the layout uses the *sort* script that you will also have to copy.
+
+
+
 #### What does 'FT' stand for?
 
 All our **FileMaker**-based projects and products are prefixed with an **F**, and the **T** is for **tools, technology, tipps&tricks, techniques** or open **templates** for the community. These files are basically examples and demos where you can copy stuff from and include it your own apps and solutions.
