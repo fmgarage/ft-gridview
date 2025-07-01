@@ -21,6 +21,18 @@ To implement the grid view into your own file you will have to add the *_cols*, 
 
 
 
+#### Searching
+
+There is a quickfind input where you can search for city or country. This is to demonstrate what is necessary when you alter the foundset. Cached values have to be cleaned and the sort script has to be called to display the grouped records. 
+
+
+
+#### Sorting Records
+
+I still have to figure this out. In theory records can be sorted by any criteria as long as the grouping order is maintained as the last criteria to activate the subsummary. Ideas welcome!
+
+
+
 #### What does 'FT' stand for?
 
 All our **FileMaker**-based projects and products are prefixed with an **F**, and the **T** is for **tools, technology, tipps&tricks, techniques** or open **templates** for the community. These files are basically examples and demos where you can copy stuff from and include it your own apps and solutions.
